@@ -1,0 +1,19 @@
+# IDE 配置
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Java 编译产物
+target/
+classes/
+maven-status/
+
+# Vue 依赖/编译产物
+node_modules/
+dist/
+*.log
+
+# 临时文件
+tmp/
+*.tmp
